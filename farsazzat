@@ -3,11 +3,13 @@ roblox              loadstring(game.HttpGet(game,'https://raw.githubusercontent.
 
 fix power  sfc /scannow
 
+hacker pubg free https://www.mediafire.com/file/ayzrrp99l63hmit/farsazzat.rar/file
+
+
+
+
 
 fierfix            
-
-
-
 
 # Download Firefox directly to Desktop
 Invoke-WebRequest -Uri "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US" -OutFile "$HOME\Desktop\firefox_installer.exe"
