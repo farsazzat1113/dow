@@ -6,7 +6,7 @@ fix power  sfc /scannow
 hacker pubg free https://www.mediafire.com/file/ayzrrp99l63hmit/farsazzat.rar/file
 
 
-
+box   loadstring(game:HttpGet("https://raw.githubusercontent.com/raxscripts/LuaUscripts/refs/heads/main/punchWall.lua"))()
 
 
 fierfix            
