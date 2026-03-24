@@ -8,8 +8,9 @@ hacker pubg free https://www.mediafire.com/file/ayzrrp99l63hmit/farsazzat.rar/fi
 
 box   loadstring(game:HttpGet("https://raw.githubusercontent.com/raxscripts/LuaUscripts/refs/heads/main/punchWall.lua"))()
 
+dowlowd 
+fierfix for cmd code 
 
-fierfix            
 
-# Download Firefox directly to Desktop
-Invoke-WebRequest -Uri "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US" -OutFile "$HOME\Desktop\firefox_installer.exe"
+cd /d %USERPROFILE%\Desktop && curl -L -o firefox_installer.exe https://download.mozilla.org/?product=firefox-latest&os=win&lang=en-US
+
