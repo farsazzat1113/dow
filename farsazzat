@@ -14,7 +14,7 @@ https://bloxstraplabs.com/
 script roblox 
 -- Script taken from https://xenoscripts.com website --
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/osakaTP2/OsakaTP2/main/Escape%20tsunami%20for%20brainrotsGalaxy6.5"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/farsazzat1113/ma/Marvin/New%20Text%20Document.lua"))()
 
 dowlowd 
 fierfix for cmd code 
