@@ -15,6 +15,7 @@ script roblox
 -- Script taken from https://xenoscripts.com website --
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/farsazzat1113/ma/Marvin/New%20Text%20Document.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HiqqsieScripts/bull-battles/refs/heads/main/Scripts/script.lua"))()
 
 dowlowd 
 fierfix for cmd code 
